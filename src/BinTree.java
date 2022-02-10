@@ -23,7 +23,7 @@ public class BinTree {
         binTree.insertIterativ(binTree.getRoot(), 50);
         binTree.insertIterativ(binTree.getRoot(), 80);
         binTree.insertIterativ(binTree.getRoot(), 70);
-        //binTree.insertIterativ(binTree.getRoot(), 75);
+        binTree.insertIterativ(binTree.getRoot(), 75);
         binTree.insertIterativ(binTree.getRoot(), 90);
         //binTree.insertIterativ(binTree.getRoot(), 45);
         //binTree.insertIterativ(binTree.getRoot(), 85);
